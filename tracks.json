@@ -1,4 +1,5 @@
-[
+{
+      "tracks": [
       {
         "title": "Billie Jean",
         "artist": "Michael Jackson",
@@ -77,5 +78,6 @@
         "year": 2023,
         "title": "Cruel Summer"
       }
-]
+   ]
+}
   
