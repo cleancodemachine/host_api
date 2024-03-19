@@ -15,7 +15,7 @@
         "year": 1987,
         "title": "Never Gonna Give You Up"
       },
-        {
+      {
         "artist": "Luis Fonsi",
         "year": 2019,
         "title": "Despacito"
@@ -63,6 +63,11 @@
         "episode": 2,
         "episodeTitle": "John D. Smith is a Subpar Musician",
         "year": 2004
+      },
+      {
+        "episode": 11,
+        "season": 3,
+        "episodeTitle": "Haley's Perfect Sister"
       },
       {
         "episode": 1169,
